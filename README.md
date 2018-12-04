@@ -1,2 +1,2 @@
 # GraphQL-Server-SpaceX
-Simple GraphQL server consuming SpaceX API
+Simple GraphQL server and react app consuming SpaceX API
